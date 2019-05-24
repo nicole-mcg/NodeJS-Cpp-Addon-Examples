@@ -1,4 +1,4 @@
-# NodeJS-Addon-Examples
+# NodeJS-Cpp-Addon-Examples
 
 Examples for NodeJS C++ Addons, copy + pasted from https://nodejs.org/api/addons.html
 
