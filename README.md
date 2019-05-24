@@ -5,7 +5,7 @@ Examples for NodeJS C++ Addons, copy + pasted from https://nodejs.org/api/addons
 # Setup
 
 `node-gyp` npm package is required.
-Windows does not come with NodeJS which contains `npm`, if you do not have NodeJS please download it here https://nodejs.org/api/addons.html
+Windows does not come with NodeJS which contains `npm`, if you do not have NodeJS please download it here https://nodejs.org/en/download/
 
 To install `node-gyp` run
 ```
